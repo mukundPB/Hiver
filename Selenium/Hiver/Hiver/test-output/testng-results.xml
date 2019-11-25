@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32735" started-at="2018-07-29T11:32:57Z" finished-at="2018-07-29T11:33:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32735" started-at="2018-07-29T11:32:57Z" finished-at="2018-07-29T11:33:30Z">
+      <class name="TestSuite.GmailLoginTest">
+        <test-method status="PASS" signature="browseGmail()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="browseGmail" is-config="true" duration-ms="3847" started-at="2018-07-29T17:02:57Z" finished-at="2018-07-29T17:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseGmail -->
+        <test-method status="PASS" signature="usernameUITest()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="usernameUITest" duration-ms="361" started-at="2018-07-29T17:03:01Z" finished-at="2018-07-29T17:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernameUITest -->
+        <test-method status="PASS" signature="UsernameValidationTest()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="UsernameValidationTest" duration-ms="2723" started-at="2018-07-29T17:03:01Z" finished-at="2018-07-29T17:03:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UsernameValidationTest -->
+        <test-method status="PASS" signature="uiPasswordValidationTest()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="uiPasswordValidationTest" duration-ms="589" started-at="2018-07-29T17:03:04Z" finished-at="2018-07-29T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiPasswordValidationTest -->
+        <test-method status="PASS" signature="passwordValidationTest()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="passwordValidationTest" duration-ms="20754" started-at="2018-07-29T17:03:05Z" finished-at="2018-07-29T17:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordValidationTest -->
+        <test-method status="PASS" signature="loginVerificationTest()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="loginVerificationTest" duration-ms="201" started-at="2018-07-29T17:03:25Z" finished-at="2018-07-29T17:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVerificationTest -->
+        <test-method status="PASS" signature="logoutVerificationTest()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="logoutVerificationTest" duration-ms="3333" started-at="2018-07-29T17:03:25Z" finished-at="2018-07-29T17:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutVerificationTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestSuite.GmailLoginTest@22e357dc]" name="closeBrowser" is-config="true" duration-ms="885" started-at="2018-07-29T17:03:29Z" finished-at="2018-07-29T17:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuite.GmailLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

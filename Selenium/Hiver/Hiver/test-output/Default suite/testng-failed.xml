@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestSuite.GmailLoginTest">
+        <methods>
+          <include name="loginVerificationTest"/>
+          <include name="logoutVerificationTest"/>
+          <include name="uiPasswordValidationTest"/>
+          <include name="passwordValidationTest"/>
+          <include name="closeBrowser"/>
+          <include name="usernameUITest"/>
+          <include name="browseGmail"/>
+          <include name="UsernameValidationTest"/>
+        </methods>
+      </class> <!-- TestSuite.GmailLoginTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
